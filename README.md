@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Felipe Moreno.
-- 👀 I’m interested in Desarollo Web con ASP.NET / Blazor 
+- 👀 I’m interested in Desarollo Web con Laravel 
 - 🌱 I’m currently learning Desarrollo Web con ASP.NET / Blazor
 - 💞️ I’m looking to collaborate on Desarrollo Web con ASP.NET / Blazor 
 - 📫 How to reach me felipe.moreno.marciales@outlook.com
